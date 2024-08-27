@@ -1,0 +1,31 @@
+ID;CNPJ;Razão Social;Fantasia;Bairro;País;Vendedor ID;Canal;Segmento;Código IBGE
+C0001;53563716354665;ASJ Ltda;Fashion Week Roupas;Centro;Brasil;V0001;Direto;Vestuário;3550308
+C0002;49308674147301;AKD Ltda;Calça Bem Calçados;Norte;Brasil;V0002;Direto;Calçados;3518800
+C0003;7781390183591;BTG AS;BTG;Sul;Brasil;V0003;Indireto;Distribuidor;3534401
+C0004;66556863689292;CFE Ltda;Porcelana Presentes;Leste;Brasil;V0001;Direto;Presentes;3549904
+C0005;59762788015242;QWERTY ;Atacarejo da Família;Oeste;Brasil;V0002;Indireto;Atacado;3554102
+C0006;81366875037302;PLF Ltda;PLF;Centro;Brasil;V0003;Indireto;Distribuidor;3509007
+C0007;71644093525339;WAS Ltda;Amarelo Banana Vestuário;Norte;Brasil;V0007;Direto;Vestuário;3106200
+C0008;39867521274815;XYZ Ltda;Calce e Leve Calçados;Sul;Brasil;V0008;Direto;Calçados;3170107
+C0009;62833578621552;MNB Ltda;Bonzão Atacado;Leste;Brasil;V0009;Indireto;Atacado;3170206
+C0010;23835223691980;CVB Ltda;Casa dos Presentes;Oeste;Brasil;V0007;Direto;Presentes;3170701
+C0011;46754041688401;ZXC Ltda;Vermelho Manga Roupas;Centro;Brasil;V0008;Direto;Vestuário;3151800
+C0012;56961102676661;SDF Ltda;SDF;Norte;Brasil;V0009;Indireto;Distribuidor;3106705
+C0013;67313956762105;YHN Ltda;Magnus Atacado;Sul;Brasil;V0004;Indireto;Atacado;3303906
+C0014;72231489910737;MJR Ltda;Comfort Comércio de Calçados;Leste;Brasil;V0005;Direto;Calçados;3303302
+C0015;78619004995191;WSX Ltda;WSX;Oeste;Brasil;V0006;Indireto;Distribuidor;3304904
+C0016;50274596716312;QSC Ltda;Fantasia Presentes;Centro;Brasil;V0004;Direto;Presentes;3305802
+C0017;88975241970370;MKP Ltda;Doce Encanto Roupas;Norte;Brasil;V0005;Direto;Vestuário;3302403
+C0018;64116099894353;EDC Ltda;Belo Monte Atacarejo;Sul;Brasil;V0006;Indireto;Atacado;3301702
+C0019;29549076622030;QAZ Ltda;Barreto Calçados;Leste;Brasil;V0010;Direto;Calçados;3205309
+C0020;61282417569650;RFV Ltda;Marcia Presentes;Oeste;Brasil;V0011;Direto;Presentes;3202405
+C0021;47649181898646;TGB Ltda;TGB;Centro;Brasil;V0012;Indireto;Distribuidor;3201209
+C0022;10640783764816;UJM Ltda;Fritai;Norte;Brasil;V0010;Indireto;Atacado;3205200
+C0023;97520490323372;MJU Ltda;MJU;Sul;Brasil;V0011;Indireto;Distribuidor;3200300
+C0024;45225850119759;NHY Ltda;Nova Moda Roupas;Leste;Brasil;V0012;Direto;Vestuário;3204203
+C0025;11074430789105;VFR Ltda;Macedo Calçados;Oeste;Brasil;V0013;Direto;Calçados;4314902
+C0026;48633191403376;CDE Ltda;Daminhas Presentes;Centro;Brasil;V0014;Direto;Presentes;4313409
+C0027;87577560819160;XSW Ltda;Cris Roupas;Norte;Brasil;V0015;Direto;Vestuário;4309100
+C0028;95213670125355;ZAQ Ltda;Bem Barato Ataco;Sul;Brasil;V0013;Indireto;Atacado;4305108
+C0029;42856952939091;POW Ltda;Casa do Tênis;Leste;Brasil;V0014;Direto;Calçados;4316808
+C0030;48825601803503;DFG Ltda;DFG;Oeste;Brasil;V0015;Indireto;Distribuidor;4304606

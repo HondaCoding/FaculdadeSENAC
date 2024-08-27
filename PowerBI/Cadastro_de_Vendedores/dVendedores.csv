@@ -1,0 +1,16 @@
+ID Vendedor;Vendedor;Filial ID;Cidade;UF;Meta Vendedor
+V0001;Estevão;F0001;São Paulo;SP; R$ 720.000,00 
+V0002;Rafaela;F0001;São Paulo;SP; R$ 720.000,00 
+V0003;Beatriz;F0001;São Paulo;SP; R$ 720.000,00 
+V0004;Calebe;F0002;Rio de Janeiro;RJ; R$ 720.000,00 
+V0005;Salomão;F0002;Rio de Janeiro;RJ; R$ 720.000,00 
+V0006;Raquel;F0002;Rio de Janeiro;RJ; R$ 720.000,00 
+V0007;Renata;F0003;Belo Horizonte;MG; R$ 720.000,00 
+V0008;Francisca;F0003;Belo Horizonte;MG; R$ 720.000,00 
+V0009;Francisco;F0003;Belo Horizonte;MG; R$ 720.000,00 
+V0010;Carla;F0004;Vitória;ES; R$ 720.000,00 
+V0011;Helena;F0004;Vitória;ES; R$ 720.000,00 
+V0012;Patrícia;F0004;Vitória;ES; R$ 720.000,00 
+V0013;Fabiana;F0005;Porto Alegre;RS; R$ 720.000,00 
+V0014;Joana;F0005;Porto Alegre;RS; R$ 720.000,00 
+V0015;Israel;F0005;Porto Alegre;RS; R$ 720.000,00 
